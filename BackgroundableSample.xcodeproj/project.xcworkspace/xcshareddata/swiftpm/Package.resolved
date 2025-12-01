@@ -1,0 +1,24 @@
+{
+  "originHash" : "ce405996f4159c72a30888c5aa79d170afa83d0786934b5cf5047307c988f07d",
+  "pins" : [
+    {
+      "identity" : "backgroundable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/takimoto3/Backgroundable.git",
+      "state" : {
+        "revision" : "44a65365e2d640c169ae697e694fbea9d0cd0d6e",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax",
+      "state" : {
+        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "version" : "600.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
